@@ -30,6 +30,9 @@
 
 Được hỗ trợ bởi các thư viện trực quan hóa hàng đầu như **Plotly** và **Folium**, MyWeather chuyển đổi các luồng dữ liệu thô (JSON) phức tạp thành những bản đồ nhiệt độ trực quan sinh động và các biểu đồ phân tích xu hướng trực quan sắc nét.
 
+- **Developer:** QCodesDS
+- **GitHub:** [QCodesDS](https://github.com/QCodesDS)
+
 ---
 
 ## 🚀 Tính Năng Nổi Bật (Key Features)
