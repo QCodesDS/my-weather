@@ -114,7 +114,7 @@ Làm theo các bước đơn giản sau để thiết lập dự án và chạy 
 Tải mã nguồn về máy tính cá nhân bằng cách sao chép dòng lệnh dưới đây:
 
 ```bash
-git clone https://github.com/username/my-weather.git
+git clone https://github.com/QCodesDS/my-weather.git
 cd my-weather
 ```
 
